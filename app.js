@@ -1,5 +1,3 @@
-
-
 const btn = document.querySelector("#runBtn");
 const resetBtn = document.querySelector("#resetBtn");
 const p = document.querySelector(".warn");
